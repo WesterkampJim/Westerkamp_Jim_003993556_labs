@@ -67,7 +67,7 @@ public class MainJFrame extends javax.swing.JFrame {
             .addGroup(topJPanelLayout.createSequentialGroup()
                 .addGap(36, 36, 36)
                 .addComponent(btnAccountMng)
-                .addContainerGap(41, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         jSplitPane1.setTopComponent(topJPanel);
